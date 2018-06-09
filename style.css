@@ -1,0 +1,37 @@
+.first{
+        height:200px;
+        width:300px;
+        background: yellowgreen
+    }
+
+#second{
+        height:200px;
+        width:300px;
+        background: maroon
+    }  
+
+#Home{
+        height:400px;
+        width:100%;
+        background: violet
+    }
+
+#About{
+        height:400px;
+        width:100%;
+        background: yellow
+    }
+
+    #Contact{
+        height:400px;
+        width:100%;
+        background: orange
+
+    }
+     /*
+        h1{color:rgb(219, 20, 20)
+    }*/
+    table,thead,tr,td{
+        border:2px solid black
+    }
+
